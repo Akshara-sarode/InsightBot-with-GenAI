@@ -1,4 +1,4 @@
-## InsightBot-with-GenAI
+## InsightBot with GenAI
 
 A visually elegant, **modern GenAI-powered chatbot** that lets you **chat with your PDFs**, generate **quizzes**, **define glossary terms**, and even **talk via voice** — built using `LangChain`, `Gradio`, and `Groq LLaMA-3` model. Designed with a **Times New Roman aesthetic** and animated UI for an immersive experience.
 
@@ -7,10 +7,10 @@ A visually elegant, **modern GenAI-powered chatbot** that lets you **chat with y
 - 📁 **Chat with PDFs** using semantic search (vector database)
 - 💬 **Conversational interface** powered by LLaMA-3 (via Groq)
 - 🎙️ **Voice-to-text chat** using Whisper ASR
-- 📚 **Glossary lookup** (drag-and-drop widget)
+- 📚 **Glossary lookup** 
 - ❓ **Quiz question generator** based on PDF content
 - 📥 **Download full chat transcript**
-- 🎉 Confetti, dark-mode toggle, sparkles, cursor trail, and profile pic
+- 🎉 Confetti, dark-mode toggle, sparkles, and profile pic
 - 🧠 Local memory context using `LangChain` ConversationBuffer
 
 ## 🛠️ Tech Stack
