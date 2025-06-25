@@ -1,0 +1,12 @@
+gradio==3.49.0
+transformers
+sentencepiece
+pandas
+matplotlib
+Pillow
+langchain
+langchain-groq
+chromadb
+unstructured
+pdfminer.six
+pypdf
